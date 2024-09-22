@@ -19,8 +19,6 @@ Looking for internship
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png">
 </div>
 <br>
-<div align="center">
-  <img align="center" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</div>
+
 
 
